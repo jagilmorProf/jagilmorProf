@@ -1,4 +1,3 @@
-### Hi there my name is Jarod 👋
 <h1>Hi, I'm Jarod, an <a href="https://linkedin.com/in/Josh](https://www.linkedin.com/in/jarod-gilmore-ab305b157/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
@@ -17,9 +16,9 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh](https://twitter.com/eromligaj
-[instagram]: https://www.instagram.com/Josh](https://www.instagram.com/jarod.gilmore
-[linkedin]: https://linkedin.com/in/Josh](https://linkedin.com/in/Josh](https://www.linkedin.com/in/jarod-gilmore-ab305b157/
+[twitter]: https://twitter.com/eromligaj
+[instagram]: https://www.instagram.com/jarod.gilmore
+[linkedin]: https://www.linkedin.com/in/jarod-gilmore-ab305b157/
 <!--
 **jagilmorProf/jagilmorProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
