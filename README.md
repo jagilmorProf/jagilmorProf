@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive
+  - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle) - Inactive
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jagilmorProf/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jagilmorProf/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jagilmorProf/configure-ad) - Inactive
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jagilmorProf/azure-network-protocols) - Active
 
 <h2>🤳Connect with me:</h2>
 
