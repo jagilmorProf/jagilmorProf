@@ -1,7 +1,8 @@
 <h1>Hi, I'm Jarod, an <a href="https://www.linkedin.com/in/jagilmor/">IT Cybersecurity Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+- <b>SQL Queries</b>
+  - [SQL: Apply Filters to SQL queries](https://https://github.com/jagilmorProf/SQL/) - Active
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive
   - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive
