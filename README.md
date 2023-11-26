@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>SQL Queries</b>
-  - [SQL: Apply Filters to SQL queries](https://github.com/jagilmorProf/SQL/) - Active
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive
-  - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle) - Inactive
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jagilmorProf/configure-ad) - Inactive
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jagilmorProf/azure-network-protocols) - Active
-
+  - [SQL: Apply Filters to SQL queries](https://github.com/jagilmorProf/SQL/) - Active<br><br>
+- <b>osTicket (Help Desk Ticketing System)</b><br>
+  - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive<br>
+  - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive<br>
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle) - Inactive<br>
+- <b>Microsoft Azure</b><br><br>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jagilmorProf/configure-ad) - Inactive<br>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jagilmorProf/azure-network-protocols) - Active<br>
+<br>
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/eromligaj)
