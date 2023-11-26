@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>SQL Queries</b>
-  - [SQL: Apply Filters to SQL queries](https://https://github.com/jagilmorProf/SQL/) - Active
+  - [SQL: Apply Filters to SQL queries](https://github.com/jagilmorProf/SQL/) - Active
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive
   - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive
@@ -13,13 +13,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/eromligaj
-[instagram]: https://www.instagram.com/jarod.gilmore
-[linkedin]: https://www.linkedin.com/in/jagilmor/
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/eromligaj)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jagilmor/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jarod.gilmore)
 <!--
 **jagilmorProf/jagilmorProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
