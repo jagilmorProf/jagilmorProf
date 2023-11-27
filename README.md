@@ -2,7 +2,7 @@
 
 <h2>Active IT Projects:</h2>
 <b>SQL Queries</b><br>
-  - SQL: Apply Filters to SQL queries // (https://github.com/jagilmorProf/SQL/) - Active<br><br>
+  - SQL: Apply Filters to SQL queries // (https://github.com/jagilmorProf/SQL/)<br><br>
 <b>Microsoft Azure</b><br>  
   - Network Security Groups (NSGs) and Inspecting Network Protocols // (https://github.com/jagilmorProf/azure-network-protocols)<br>
 <h2>Cybersecurity Activities</h2>
