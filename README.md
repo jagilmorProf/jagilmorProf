@@ -8,6 +8,7 @@
 <b>Linux</b><br>
   - Linux: File Permissions // (https://github.com/jagilmorProf/Linux-Permissions/)<br><br>
 <h2>Cybersecurity Activities</h2>
+  - Activity: PASTA Worksheet // (https://github.com/jagilmorProf/Activity-PASTA-Worksheet/))<br>
   - Activity: Vulnerability Assessment // (https://github.com/jagilmorProf/Activity-Vulnerability-Assessment/))<br>
 <h2>Inactive IT Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b><br>
