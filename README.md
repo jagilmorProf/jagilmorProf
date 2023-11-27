@@ -1,8 +1,9 @@
 <h1>Hi, I'm Jarod, an <a href="https://www.linkedin.com/in/jagilmor/">IT Cybersecurity Professional</a></h1>
 
 <h2>Active IT Projects:</h2>
-- <b>SQL Queries</b>
+<b>SQL Queries</b><br>
   - [SQL: Apply Filters to SQL queries](https://github.com/jagilmorProf/SQL/) - Active<br><br>
+<b>Microsoft Azure</b><br>  
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jagilmorProf/azure-network-protocols)<br>
 <h2>Inactive IT Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b><br>
