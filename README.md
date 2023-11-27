@@ -5,6 +5,8 @@
   - [SQL: Apply Filters to SQL queries] // (https://github.com/jagilmorProf/SQL/) - Active<br><br>
 <b>Microsoft Azure</b><br>  
   - [Network Security Groups (NSGs) and Inspecting Network Protocols] // (https://github.com/jagilmorProf/azure-network-protocols)<br>
+<h2>Cybersecurity Activities</h2><br>
+
 <h2>Inactive IT Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b><br>
   - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive<br>
