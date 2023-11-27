@@ -1,15 +1,16 @@
 <h1>Hi, I'm Jarod, an <a href="https://www.linkedin.com/in/jagilmor/">IT Cybersecurity Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Active IT Projects:</h2>
 - <b>SQL Queries</b>
   - [SQL: Apply Filters to SQL queries](https://github.com/jagilmorProf/SQL/) - Active<br><br>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jagilmorProf/azure-network-protocols)<br>
+<h2>Inactive IT Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b><br>
   - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive<br>
   - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive<br>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle) - Inactive<br><br>
 - <b>Microsoft Azure</b><br><br>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jagilmorProf/configure-ad) - Inactive<br>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jagilmorProf/azure-network-protocols) - Active<br>
 <br>
 <h2>🤳Connect with me:</h2>
 
