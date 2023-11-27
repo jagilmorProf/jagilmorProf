@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jarod, an <a href="https://www.linkedin.com/in/jagilmor/">IT Cybersecurity Professional</a></h1>
+<h1>Hello I'm Jarod, an <a href="https://www.linkedin.com/in/jagilmor/">IT Cybersecurity Professional</a></h1>
 
 <h2>Active IT Projects:</h2>
 <b>SQL Queries</b><br>
