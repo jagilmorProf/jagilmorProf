@@ -5,6 +5,8 @@
   - SQL: Apply Filters to SQL queries // (https://github.com/jagilmorProf/SQL/)<br><br>
 <b>Microsoft Azure</b><br>  
   - Network Security Groups (NSGs) and Inspecting Network Protocols // (https://github.com/jagilmorProf/azure-network-protocols)<br>
+<b>Linux</b><br>
+  - Linux: File Permissions // (https://github.com/jagilmorProf/Linux-Permissions/)<br><br>
 <h2>Cybersecurity Activities</h2>
   - Activity: Vulnerability Assessment // (https://github.com/jagilmorProf/Activity-Vulnerability-Assessment/))<br>
 <h2>Inactive IT Projects:</h2>
