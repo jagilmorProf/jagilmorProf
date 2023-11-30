@@ -6,7 +6,8 @@
 <b>Microsoft Azure</b><br>  
   - Network Security Groups (NSGs) and Inspecting Network Protocols // (https://github.com/jagilmorProf/azure-network-protocols)<br><br>
 <b>Linux</b><br>
-  - Linux: File Permissions // (https://github.com/jagilmorProf/Linux-Permissions/)<br><br>
+  - Linux: File Permissions // (https://github.com/jagilmorProf/Linux-Permissions/)<br>
+  - Linux: Application Installation // (https://github.com/jagilmorProf/Linux-Applications/)<br><br>
 <h2>Cybersecurity Activities</h2>
   - Activity: PASTA Worksheet // (https://github.com/jagilmorProf/Activity-PASTA-Worksheet/))<br>
   - Activity: Vulnerability Assessment // (https://github.com/jagilmorProf/Activity-Vulnerability-Assessment/))<br>
