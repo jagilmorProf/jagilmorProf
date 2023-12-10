@@ -5,7 +5,7 @@
   - SQL: Apply Filters to SQL queries // (https://github.com/jagilmorProf/SQL/)<br><br>
 <b>Microsoft Azure</b><br>  
   - Network Security Groups (NSGs) and Inspecting Network Protocols // (https://github.com/jagilmorProf/azure-network-protocols)<br>
-  - Configuring On-premises Active Directory within Azure VMs // (https://github.com/jagilmorProf/configure-ad)<br>
+  - Configuring On-premises Active Directory within Azure VMs // (https://github.com/jagilmorProf/configure-ad)<br><br>
 <b>Linux</b><br>
   - Linux: File Permissions // (https://github.com/jagilmorProf/Linux-Permissions/)<br>
   - Linux: Application Installation // (https://github.com/jagilmorProf/Linux-Applications/)<br><br>
