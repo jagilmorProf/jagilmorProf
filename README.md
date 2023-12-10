@@ -5,6 +5,7 @@
   - SQL: Apply Filters to SQL queries // (https://github.com/jagilmorProf/SQL/)<br><br>
 <b>Microsoft Azure</b><br>  
   - Network Security Groups (NSGs) and Inspecting Network Protocols // (https://github.com/jagilmorProf/azure-network-protocols)<br><br>
+  - Configuring On-premises Active Directory within Azure VMs // (https://github.com/jagilmorProf/configure-ad)<br>
 <b>Linux</b><br>
   - Linux: File Permissions // (https://github.com/jagilmorProf/Linux-Permissions/)<br>
   - Linux: Application Installation // (https://github.com/jagilmorProf/Linux-Applications/)<br><br>
@@ -16,8 +17,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive<br>
   - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive<br>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle) - Inactive<br><br>
-- <b>Microsoft Azure</b><br><br>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jagilmorProf/configure-ad) - Inactive<br>
 <br>
 <h2>🤳Connect with me:</h2>
 
