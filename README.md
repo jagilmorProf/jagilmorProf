@@ -1,5 +1,5 @@
 <h1>Hello I'm Jarod, an <a href="https://www.linkedin.com/in/jagilmor/">IT Cybersecurity Professional</a></h1>
-<b>Quick Commands for Linux and Windows, SSH Install Firewall Rules, and Device Information</b> // (https://github.com/jagilmorProf/Linux-Permissions/)
+<b>Quick Commands for Linux and Windows, SSH Install Firewall Rules, and Device Information</b> // (https://github.com/jagilmorProf/quick_commands/)
 <h2>Active IT Projects:</h2>
 <b>SQL Queries</b><br>
   - SQL: Apply Filters to SQL queries // (https://github.com/jagilmorProf/SQL/)<br><br>
