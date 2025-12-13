@@ -17,6 +17,21 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jagilmorProf/osticket-prereqs) - Inactive<br>
   - [osTicket: Post-Installation Configuration](https://github.com/jagilmorProf/post-install-config) - Inactive<br>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle) - Inactive<br><br>
+
+## Passion Projects / Quick References
+
+| Stack Area | Tools & Projects |
+|-----------|------------------|
+| Secure Networking | [pfSense](https://github.com/jagilmorProf/pfsense) // VLANs // [WireGuard](https://github.com/jagilmorProf/wireguard) // DNS (Unbound) |
+| Self-Hosted Media | [Immich](https://github.com/jagilmorProf/immich) // [Immich Frame](https://github.com/jagilmorProf/immich-frame) // [Paperless-ngx](https://github.com/jagilmorProf/paperless-ngx) |
+| Video Surveillance | [Frigate](https://github.com/jagilmorProf/frigate) // Camera DMZ |
+| Automation & Processing | [ffmpeg](https://github.com/jagilmorProf/ffmpeg) // [yt-dlp](https://github.com/jagilmorProf/yt-dlp) // Python |
+| AI & Identity | [ComfyUI](https://github.com/jagilmorProf/comfyui) // [InstantID](https://github.com/jagilmorProf/instantid) |
+| Music Intelligence | [Navidrome](https://github.com/jagilmorProf/navidrome) // [Beets](https://github.com/jagilmorProf/beets) |
+| Containers | [Docker](https://github.com/jagilmorProf/docker) // docker-compose |
+| Detection & IR | [Wireshark](https://github.com/jagilmorProf/wireshark) // [Snort](https://github.com/jagilmorProf/snort) // [Autopsy](https://github.com/jagilmorProf/autopsy) |
+| Storage & Filesystems | ZFS // SMB // NFS |
+
 <br>
 <h2>🤳Connect with me:</h2>
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>(https://www.linkedin.com/in/jagilmor/)
