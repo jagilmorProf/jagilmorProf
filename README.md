@@ -19,7 +19,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jagilmorProf/ticket-lifecycle) - Inactive<br><br>
 <br>
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jagilmor/)
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>(https://www.linkedin.com/in/jagilmor/)
 
 <!--
 **jagilmorProf/jagilmorProf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
