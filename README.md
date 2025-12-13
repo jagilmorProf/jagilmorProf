@@ -22,14 +22,14 @@
 
 | Stack Area | Tools & Projects |
 |-----------|------------------|
-| Secure Networking | [pfSense](https://github.com/jagilmorProf/pfsense) // VLANs // [WireGuard](https://github.com/jagilmorProf/wireguard) // DNS (Unbound) |
-| Self-Hosted Media | [Immich](https://github.com/jagilmorProf/immich) // [Immich Frame](https://github.com/jagilmorProf/immich-frame) // [Paperless-ngx](https://github.com/jagilmorProf/paperless-ngx) |
-| Video Surveillance | [Frigate](https://github.com/jagilmorProf/frigate) // Camera DMZ |
-| Automation & Processing | [ffmpeg](https://github.com/jagilmorProf/ffmpeg) // [yt-dlp](https://github.com/jagilmorProf/yt-dlp) // Python |
-| AI & Identity | [ComfyUI](https://github.com/jagilmorProf/comfyui) // [InstantID](https://github.com/jagilmorProf/instantid) |
-| Music Intelligence | [Navidrome](https://github.com/jagilmorProf/navidrome) // [Beets](https://github.com/jagilmorProf/beets) |
-| Containers | [Docker](https://github.com/jagilmorProf/docker) // docker-compose |
-| Detection & IR | [Wireshark](https://github.com/jagilmorProf/wireshark) // [Snort](https://github.com/jagilmorProf/snort) // [Autopsy](https://github.com/jagilmorProf/autopsy) |
+| Secure Networking | [pfSense](https://docs.netgate.com/pfsense/en/latest/) // VLANs // [WireGuard](https://github.com/WireGuard) // DNS (Unbound) |
+| Self-Hosted Media | [Immich](https://github.com/immich-app/immich) // [Immich Frame](https://github.com/immichFrame/immichFrame) // [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) |
+| Video Surveillance | [Frigate](https://docs.frigate.video/frigate/installation/ffm) // Camera DMZ |
+| Automation & Processing | [ffmpeg](https://github.com/FFmpeg/FFmpeg) // [yt-dlp](https://github.com/yt-dlp/yt-dlp) // [Python](https://www.python.org/doc/) |
+| AI & Identity | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) // [InstantID](https://github.com/instantX-research/InstantID) |
+| Music Intelligence | [Navidrome](https://github.com/navidrome/navidrome) // [Beets](https://github.com/beetbox/beets) |
+| Containers | [Docker](https://www.docker.com/resources/what-container/) // docker-compose |
+| Detection & IR | [Wireshark](https://www.wireshark.org/) // [Snort](https://www.snort.org/) // [Autopsy](https://www.autopsy.com/) // [DMDE](https://dmde.com/) |
 | Storage & Filesystems | ZFS // SMB // NFS |
 
 <br>
